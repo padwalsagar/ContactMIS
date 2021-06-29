@@ -9,4 +9,4 @@
 1. Unzip the ContactMIZ.zip and open Solution file with Visual Studio
 2. Note that application uses SQLExpress local instance
 3. Simply run the application; it will start the Contact.API project on IISExpress with Url http://localhost:57693/
-4. Application is configured with Swagger UI to provide API documentation for entity Contact as well as UI interface to test APIs
+4. Application is configured with Swagger UI; so API documentation page can be found at http://localhost:57693/swagger
